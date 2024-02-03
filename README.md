@@ -1,1 +1,1 @@
-To run project use netbeans tool ,sqlyarn
+To run project use netbeans ,sqlyarn
